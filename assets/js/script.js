@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         buttons[1].onclick = () => {
             popup.style.display = 'none';
             body.style.overflow = 'auto';
-            window.open('https://github.com/Swee5t/my-website', '_blank');
+            window.open('https://github.com/x2t8/my-website', '_blank');
         };
     });
 
