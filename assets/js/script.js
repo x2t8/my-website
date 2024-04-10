@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (popup) {
         popup.style.display = 'flex';
         popupLogo.style.display = 'none';
-        popupText.textContent = 'o/ Hi';
+        popupText.textContent = 'Hi';
         popupDescription.textContent = 'Vì nhà phát triển trang này quá lười, các tính năng có thể không hoạt động trên iOS hoặc Android.';
         body.style.overflow = 'hidden';
     }
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         popup.style.display = 'flex';
         popupLogo.style.display = 'flex';
         popupText.textContent = 'Certified Developer Badge';
-        popupDescription.textContent = 'This account has been certified since February 17, 2024.';
+        popupDescription.textContent = 'This account has been certified since March 24, 2024.';
         body.style.overflow = 'hidden';
         buttons.forEach((element) => {
             buttons[0].textContent = 'Close';
