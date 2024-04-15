@@ -131,7 +131,7 @@ body {
     max-width: 160px;
     font-size: 14px;
     line-height: 18px;
-    color: rgb(255,192,203);
+    color: rgba(255, 255, 255, .8);
 }
 
 h4 {
@@ -318,7 +318,7 @@ h4 {
     margin: 0;
     margin-top: 10px;
     font-size: 16px;
-    color: rgb(255,192,203);
+    color: rgba(255, 255, 255, .8);
     text-align: center;
     text-wrap: balance;
     align-items: center;
